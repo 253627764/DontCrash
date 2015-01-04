@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/cocos/base/CCDataVisitor.cpp \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCPlatformMacros.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCPlatformConfig.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCBool.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCDataVisitor.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCInteger.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/ios/CCStdC.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCFloat.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCDouble.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCString.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCArray.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/ccCArray.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCDictionary.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/uthash.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/deprecated/CCSet.h

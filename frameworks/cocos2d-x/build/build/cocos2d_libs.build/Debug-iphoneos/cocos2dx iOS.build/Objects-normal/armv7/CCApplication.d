@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/cocos/platform/ios/CCApplication.mm \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/cocos/platform/ios/CCApplication.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCPlatformConfig.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCPlatformMacros.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/CCApplicationProtocol.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCScriptSupport.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCTouch.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/CCGeometry.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/platform/ios/CCStdC.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/CCMath.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Vec2.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/CCMathBase.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Vec2.inl \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Vec3.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Vec3.inl \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Mat4.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Vec4.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Vec4.inl \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Mat4.inl \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Quaternion.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/math/Quaternion.inl \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCEventTouch.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCEvent.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCEventKeyboard.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/build/../cocos/base/CCAutoreleasePool.h \
+  /Users/ws/Documents/cocos/DontCrash/frameworks/cocos2d-x/cocos/platform/ios/CCDirectorCaller.h
